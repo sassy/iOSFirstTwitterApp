@@ -1,0 +1,283 @@
+TTwitterViewer
+v7
+r0
+t363022064.590054
+cCheck dependencies
+cProcessInfoPlistFile /Users/watanabesatoshi/dev/iOS/TwitterViewer/build/Debug-iphonesimulator/TwitterViewer.app/Info.plist TwitterViewer-Info.plist
+cProcessPCH /var/folders/7Z/7ZpP+4+lFf0MPPy2EBGiPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TwitterViewer_Prefix-enbalwxzwsfqulhiamjtctrybkal/TwitterViewer_Prefix.pch.gch TwitterViewer_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/Objects-normal/i386/main.o /Users/watanabesatoshi/dev/iOS/TwitterViewer/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/Objects-normal/i386/TwitterViewerAppDelegate.o /Users/watanabesatoshi/dev/iOS/TwitterViewer/Classes/TwitterViewerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/Objects-normal/i386/TwitterViewController.o /Users/watanabesatoshi/dev/iOS/TwitterViewer/Classes/TwitterViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/Objects-normal/i386/Connection.o /Users/watanabesatoshi/dev/iOS/TwitterViewer/Classes/Connection.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/Objects-normal/i386/XMLParser.o /Users/watanabesatoshi/dev/iOS/TwitterViewer/Classes/XMLParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/watanabesatoshi/dev/iOS/TwitterViewer/build/Debug-iphonesimulator/TwitterViewer.app/TwitterViewer normal i386
+cGenerateDSYMFile /Users/watanabesatoshi/dev/iOS/TwitterViewer/build/Debug-iphonesimulator/TwitterViewer.app.dSYM /Users/watanabesatoshi/dev/iOS/TwitterViewer/build/Debug-iphonesimulator/TwitterViewer.app/TwitterViewer
+cTouch /Users/watanabesatoshi/dev/iOS/TwitterViewer/build/Debug-iphonesimulator/TwitterViewer.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/watanabesatoshi/dev/iOS/TwitterViewer/Classes/Connection.h
+c000000004FEF3A6300000000000002EF
+t1341078115
+s751
+i<Foundation/Foundation.h>
+
+N/Users/watanabesatoshi/dev/iOS/TwitterViewer/Classes/Connection.m
+c000000004FF2FCC600000000000004FC
+t1341324486
+s1276
+i"Connection.h"
+
+N/Users/watanabesatoshi/dev/iOS/TwitterViewer/Classes/TwitterViewController.h
+c000000004FEF38F8000000000000018B
+t1341077752
+s395
+i<Foundation/Foundation.h>
+
+N/Users/watanabesatoshi/dev/iOS/TwitterViewer/Classes/TwitterViewController.m
+c000000004FF30F680000000000000843
+t1341329256
+s2115
+i"TwitterViewController.h"
+i"Connection.h"
+i"XMLParser.h"
+
+N/Users/watanabesatoshi/dev/iOS/TwitterViewer/Classes/TwitterViewerAppDelegate.h
+c000000004FEF34010000000000000296
+t1341076481
+s662
+i<UIKit/UIKit.h>
+i"TwitterViewController.h"
+
+N/Users/watanabesatoshi/dev/iOS/TwitterViewer/Classes/TwitterViewerAppDelegate.m
+c000000004FEF34C7000000000000034E
+t1341076679
+s846
+i"TwitterViewerAppDelegate.h"
+i"TwitterViewController.h"
+
+N/Users/watanabesatoshi/dev/iOS/TwitterViewer/Classes/XMLParser.h
+c000000004FF3019F00000000000002E8
+t1341325727
+s744
+i<Foundation/Foundation.h>
+
+N/Users/watanabesatoshi/dev/iOS/TwitterViewer/Classes/XMLParser.m
+c000000004FF3094E000000000000093C
+t1341327694
+s2364
+i"XMLParser.h"
+
+N/Users/watanabesatoshi/dev/iOS/TwitterViewer/TwitterViewer_Prefix.pch
+c000000004FE4960200000000000000C3
+t1340380674
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/Debug-iphonesimulator/TwitterViewer.app
+t1341329264
+s170
+
+N/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/Debug-iphonesimulator/TwitterViewer.app.dSYM
+t1341329264
+s102
+
+N/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/Debug-iphonesimulator/TwitterViewer.app/Info.plist
+t1341327249
+s582
+
+N/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/Debug-iphonesimulator/TwitterViewer.app/PkgInfo
+t1341327249
+s8
+
+N/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/Debug-iphonesimulator/TwitterViewer.app/TwitterViewer
+t1341329264
+s32548
+
+N/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/Objects-normal/i386/Connection.o
+t1341327253
+s15544
+
+N/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/Objects-normal/i386/TwitterViewController.o
+t1341329264
+s47436
+
+N/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/Objects-normal/i386/TwitterViewer.LinkFileList
+c000000004FF3079100000000000002EC
+t1341327249
+s748
+
+N/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/Objects-normal/i386/TwitterViewerAppDelegate.o
+t1341327253
+s54076
+
+N/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/Objects-normal/i386/XMLParser.o
+t1341328122
+s24284
+
+N/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/Objects-normal/i386/main.o
+t1341327253
+s6512
+
+N/Users/watanabesatoshi/dev/iOS/TwitterViewer/main.m
+c000000004FE496390000000000000189
+t1340380729
+s393
+i<UIKit/UIKit.h>
+
+N/var/folders/7Z/7ZpP+4+lFf0MPPy2EBGiPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TwitterViewer_Prefix-enbalwxzwsfqulhiamjtctrybkal/TwitterViewer_Prefix.pch.gch
+t1341327253
+s15814064
+
+NTwitterViewer-Info.plist
+c000000004FE496270000000000000356
+t1340380711
+s854
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies363022064#363022064#0(0"0(0#1#0"8604021696#0"0#
+
+CCompileC build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/Objects-normal/i386/Connection.o /Users/watanabesatoshi/dev/iOS/TwitterViewer/Classes/Connection.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s363020053.821724
+e363020054.117238
+r1
+xCompileC
+xbuild/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/Objects-normal/i386/Connection.o
+x/Users/watanabesatoshi/dev/iOS/TwitterViewer/Classes/Connection.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/watanabesatoshi/dev/iOS/TwitterViewer/Classes/Connection.m363020053#363020054#0(0"0(0#0#65"/Users/watanabesatoshi/dev/iOS/TwitterViewer/Classes/Connection.m8613158912#2120"    cd /Users/watanabesatoshi/dev/iOS/TwitterViewer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/TwitterViewer-generated-files.hmap -I/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/TwitterViewer-own-target-headers.hmap -I/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/TwitterViewer-all-target-headers.hmap -iquote /Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/TwitterViewer-project-headers.hmap -F/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/Debug-iphonesimulator -I/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/Debug-iphonesimulator/include -I/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/DerivedSources/i386 -I/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/DerivedSources -include /var/folders/7Z/7ZpP+4+lFf0MPPy2EBGiPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TwitterViewer_Prefix-enbalwxzwsfqulhiamjtctrybkal/TwitterViewer_Prefix.pch -c /Users/watanabesatoshi/dev/iOS/TwitterViewer/Classes/Connection.m -o /Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/Objects-normal/i386/Connection.o0#
+
+CCompileC build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/Objects-normal/i386/TwitterViewController.o /Users/watanabesatoshi/dev/iOS/TwitterViewer/Classes/TwitterViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s363022064.284966
+e363022064.448539
+r1
+xCompileC
+xbuild/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/Objects-normal/i386/TwitterViewController.o
+x/Users/watanabesatoshi/dev/iOS/TwitterViewer/Classes/TwitterViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/watanabesatoshi/dev/iOS/TwitterViewer/Classes/TwitterViewController.m363022064#363022064#0(0"0(0#0#76"/Users/watanabesatoshi/dev/iOS/TwitterViewer/Classes/TwitterViewController.m8615646880#2142"    cd /Users/watanabesatoshi/dev/iOS/TwitterViewer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/TwitterViewer-generated-files.hmap -I/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/TwitterViewer-own-target-headers.hmap -I/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/TwitterViewer-all-target-headers.hmap -iquote /Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/TwitterViewer-project-headers.hmap -F/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/Debug-iphonesimulator -I/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/Debug-iphonesimulator/include -I/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/DerivedSources/i386 -I/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/DerivedSources -include /var/folders/7Z/7ZpP+4+lFf0MPPy2EBGiPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TwitterViewer_Prefix-enbalwxzwsfqulhiamjtctrybkal/TwitterViewer_Prefix.pch -c /Users/watanabesatoshi/dev/iOS/TwitterViewer/Classes/TwitterViewController.m -o /Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/Objects-normal/i386/TwitterViewController.o0#
+
+CCompileC build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/Objects-normal/i386/TwitterViewerAppDelegate.o /Users/watanabesatoshi/dev/iOS/TwitterViewer/Classes/TwitterViewerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s363020053.569545
+e363020053.821574
+r1
+xCompileC
+xbuild/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/Objects-normal/i386/TwitterViewerAppDelegate.o
+x/Users/watanabesatoshi/dev/iOS/TwitterViewer/Classes/TwitterViewerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/watanabesatoshi/dev/iOS/TwitterViewer/Classes/TwitterViewerAppDelegate.m363020053#363020053#0(0"0(0#0#79"/Users/watanabesatoshi/dev/iOS/TwitterViewer/Classes/TwitterViewerAppDelegate.m8616064736#2148"    cd /Users/watanabesatoshi/dev/iOS/TwitterViewer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/TwitterViewer-generated-files.hmap -I/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/TwitterViewer-own-target-headers.hmap -I/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/TwitterViewer-all-target-headers.hmap -iquote /Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/TwitterViewer-project-headers.hmap -F/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/Debug-iphonesimulator -I/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/Debug-iphonesimulator/include -I/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/DerivedSources/i386 -I/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/DerivedSources -include /var/folders/7Z/7ZpP+4+lFf0MPPy2EBGiPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TwitterViewer_Prefix-enbalwxzwsfqulhiamjtctrybkal/TwitterViewer_Prefix.pch -c /Users/watanabesatoshi/dev/iOS/TwitterViewer/Classes/TwitterViewerAppDelegate.m -o /Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/Objects-normal/i386/TwitterViewerAppDelegate.o0#
+
+CCompileC build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/Objects-normal/i386/XMLParser.o /Users/watanabesatoshi/dev/iOS/TwitterViewer/Classes/XMLParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s363020922.325849
+e363020922.498723
+r1
+xCompileC
+xbuild/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/Objects-normal/i386/XMLParser.o
+x/Users/watanabesatoshi/dev/iOS/TwitterViewer/Classes/XMLParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/watanabesatoshi/dev/iOS/TwitterViewer/Classes/XMLParser.m363020922#363020922#0(0"0(0#0#64"/Users/watanabesatoshi/dev/iOS/TwitterViewer/Classes/XMLParser.m8618788832#2118"    cd /Users/watanabesatoshi/dev/iOS/TwitterViewer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/TwitterViewer-generated-files.hmap -I/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/TwitterViewer-own-target-headers.hmap -I/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/TwitterViewer-all-target-headers.hmap -iquote /Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/TwitterViewer-project-headers.hmap -F/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/Debug-iphonesimulator -I/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/Debug-iphonesimulator/include -I/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/DerivedSources/i386 -I/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/DerivedSources -include /var/folders/7Z/7ZpP+4+lFf0MPPy2EBGiPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TwitterViewer_Prefix-enbalwxzwsfqulhiamjtctrybkal/TwitterViewer_Prefix.pch -c /Users/watanabesatoshi/dev/iOS/TwitterViewer/Classes/XMLParser.m -o /Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/Objects-normal/i386/XMLParser.o0#
+
+CCompileC build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/Objects-normal/i386/main.o /Users/watanabesatoshi/dev/iOS/TwitterViewer/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s363020053.556092
+e363020053.690334
+r1
+xCompileC
+xbuild/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/Objects-normal/i386/main.o
+x/Users/watanabesatoshi/dev/iOS/TwitterViewer/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/watanabesatoshi/dev/iOS/TwitterViewer/main.m363020053#363020053#0(0"0(0#0#51"/Users/watanabesatoshi/dev/iOS/TwitterViewer/main.m8612993632#2100"    cd /Users/watanabesatoshi/dev/iOS/TwitterViewer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/TwitterViewer-generated-files.hmap -I/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/TwitterViewer-own-target-headers.hmap -I/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/TwitterViewer-all-target-headers.hmap -iquote /Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/TwitterViewer-project-headers.hmap -F/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/Debug-iphonesimulator -I/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/Debug-iphonesimulator/include -I/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/DerivedSources/i386 -I/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/DerivedSources -include /var/folders/7Z/7ZpP+4+lFf0MPPy2EBGiPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TwitterViewer_Prefix-enbalwxzwsfqulhiamjtctrybkal/TwitterViewer_Prefix.pch -c /Users/watanabesatoshi/dev/iOS/TwitterViewer/main.m -o /Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/Objects-normal/i386/main.o0#
+
+CGenerateDSYMFile /Users/watanabesatoshi/dev/iOS/TwitterViewer/build/Debug-iphonesimulator/TwitterViewer.app.dSYM /Users/watanabesatoshi/dev/iOS/TwitterViewer/build/Debug-iphonesimulator/TwitterViewer.app/TwitterViewer
+s363022064.513015
+e363022064.584170
+r1
+xGenerateDSYMFile
+x/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/Debug-iphonesimulator/TwitterViewer.app.dSYM
+x/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/Debug-iphonesimulator/TwitterViewer.app/TwitterViewer
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/TwitterViewer.app.dSYM build/Debug-iphonesimulator/TwitterViewer.app/TwitterViewer363022064#363022064#0(0"0(0#0#104"/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/Debug-iphonesimulator/TwitterViewer.app/TwitterViewer8605810400#419"    cd /Users/watanabesatoshi/dev/iOS/TwitterViewer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/watanabesatoshi/dev/iOS/TwitterViewer/build/Debug-iphonesimulator/TwitterViewer.app/TwitterViewer -o /Users/watanabesatoshi/dev/iOS/TwitterViewer/build/Debug-iphonesimulator/TwitterViewer.app.dSYM0#
+
+CLd /Users/watanabesatoshi/dev/iOS/TwitterViewer/build/Debug-iphonesimulator/TwitterViewer.app/TwitterViewer normal i386
+s363022064.448632
+e363022064.512897
+r1
+xLd
+x/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/Debug-iphonesimulator/TwitterViewer.app/TwitterViewer
+xnormal
+xi386
+lSLF07#2@109"Link /Users/watanabesatoshi/dev/iOS/TwitterViewer/build/Debug-iphonesimulator/TwitterViewer.app/TwitterViewer363022064#363022064#0(0"0(0#0#0"8612125472#960"    cd /Users/watanabesatoshi/dev/iOS/TwitterViewer    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/Debug-iphonesimulator -F/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/Debug-iphonesimulator -filelist /Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/Objects-normal/i386/TwitterViewer.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/watanabesatoshi/dev/iOS/TwitterViewer/build/Debug-iphonesimulator/TwitterViewer.app/TwitterViewer0#
+
+CProcessInfoPlistFile /Users/watanabesatoshi/dev/iOS/TwitterViewer/build/Debug-iphonesimulator/TwitterViewer.app/Info.plist TwitterViewer-Info.plist
+s363020049.654377
+e363020049.700714
+r1
+xProcessInfoPlistFile
+x/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/Debug-iphonesimulator/TwitterViewer.app/Info.plist
+xTwitterViewer-Info.plist
+lSLF07#2@32"Process TwitterViewer-Info.plist363020049#363020049#0(0"0(0#0#69"/Users/watanabesatoshi/dev/iOS/TwitterViewer/TwitterViewer-Info.plist8615803424#515"    cd /Users/watanabesatoshi/dev/iOS/TwitterViewer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TwitterViewer-Info.plist -genpkginfo /Users/watanabesatoshi/dev/iOS/TwitterViewer/build/Debug-iphonesimulator/TwitterViewer.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/watanabesatoshi/dev/iOS/TwitterViewer/build/Debug-iphonesimulator/TwitterViewer.app/Info.plist0#
+
+CProcessPCH /var/folders/7Z/7ZpP+4+lFf0MPPy2EBGiPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TwitterViewer_Prefix-enbalwxzwsfqulhiamjtctrybkal/TwitterViewer_Prefix.pch.gch TwitterViewer_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s363020049.700838
+e363020053.555863
+r1
+xProcessPCH
+x/var/folders/7Z/7ZpP+4+lFf0MPPy2EBGiPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TwitterViewer_Prefix-enbalwxzwsfqulhiamjtctrybkal/TwitterViewer_Prefix.pch.gch
+xTwitterViewer_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile TwitterViewer_Prefix.pch363020049#363020053#0(0"0(0#0#69"/Users/watanabesatoshi/dev/iOS/TwitterViewer/TwitterViewer_Prefix.pch8613917280#1980"    cd /Users/watanabesatoshi/dev/iOS/TwitterViewer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/TwitterViewer-generated-files.hmap -I/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/TwitterViewer-own-target-headers.hmap -I/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/TwitterViewer-all-target-headers.hmap -iquote /Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/TwitterViewer-project-headers.hmap -F/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/Debug-iphonesimulator -I/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/Debug-iphonesimulator/include -I/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/DerivedSources/i386 -I/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/TwitterViewer.build/Debug-iphonesimulator/TwitterViewer.build/DerivedSources -c /Users/watanabesatoshi/dev/iOS/TwitterViewer/TwitterViewer_Prefix.pch -o /var/folders/7Z/7ZpP+4+lFf0MPPy2EBGiPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TwitterViewer_Prefix-enbalwxzwsfqulhiamjtctrybkal/TwitterViewer_Prefix.pch.gch0#
+
+CTouch /Users/watanabesatoshi/dev/iOS/TwitterViewer/build/Debug-iphonesimulator/TwitterViewer.app
+s363022064.585668
+e363022064.590008
+r1
+xTouch
+x/Users/watanabesatoshi/dev/iOS/TwitterViewer/build/Debug-iphonesimulator/TwitterViewer.app
+lSLF07#2@96"Touch /Users/watanabesatoshi/dev/iOS/TwitterViewer/build/Debug-iphonesimulator/TwitterViewer.app363022064#363022064#0(0"0(0#0#0"8605836480#296"    cd /Users/watanabesatoshi/dev/iOS/TwitterViewer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/watanabesatoshi/dev/iOS/TwitterViewer/build/Debug-iphonesimulator/TwitterViewer.app0#
+
