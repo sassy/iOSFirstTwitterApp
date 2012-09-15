@@ -42,6 +42,13 @@
 	return [array count];
 }
 
+- (CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath {
+    NSString *tweetText = [[self.array objectAtIndex:indexPath.row] valueForKey:@"text"];
+    CGSize textSize = [tweetText sizeWithFont:[UIFont systemFontOfSize:14.0f]
+                            constrainedToSize:CGSizeMake(floorf(self.tableView.frame.size.width * 0.6), INFINITY)];
+    return textSize.height + 20.0f;
+}
+
 - (UITableViewCell *)tableView:(UITableView *)tableView
 		 cellForRowAtIndexPath:(NSIndexPath *)indexPath
 {
